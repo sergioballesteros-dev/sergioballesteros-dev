@@ -35,6 +35,6 @@ Frontend:     Next.js · React · Tailwind CSS
 ### 📌 Featured Systems & Projects
 
 - **[Engineering Notebook](https://sergioballesteros.dev)** — Production case studies: *OCM Brain*, *Energy Simulator*, *Smart OCR*, and *Data Processing*.
-- **[ai-prospecting-engine](https://github.com/sergioballesteros-vd/ai-prospecting-engine)** — AI-assisted B2B prospecting engine: structured LLM research pipeline, deterministic opportunity scoring, layered backend architecture.
-- **[KetoHoy](https://github.com/sergioballesteros-vd/ketohoy)** ([ketohoy.es](https://ketohoy.es)) — Full-stack production product with automated backup before migrations, CI/CD, and View Transitions API.
-- **[vertx-hexagonal-template](https://github.com/sergioballesteros-vd/vertx-hexagonal-template)** — Hexagonal architecture template in Java with Vert.x.
+- **[ai-prospecting-engine](https://github.com/sergioballesteros-dev/ai-prospecting-engine)** — AI-assisted B2B prospecting engine: structured LLM research pipeline, deterministic opportunity scoring, layered backend architecture.
+- **[KetoHoy](https://github.com/sergioballesteros-dev/ketohoy)** ([ketohoy.es](https://ketohoy.es)) — Full-stack production product with automated backup before migrations, CI/CD, and View Transitions API.
+- **[vertx-hexagonal-template](https://github.com/sergioballesteros-dev/vertx-hexagonal-template)** — Hexagonal architecture template in Java with Vert.x.
